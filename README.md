@@ -1,4 +1,4 @@
-# Simple RAG UUD 1945 Using LangChain and Gemini API
+# Simple RAG Indonesian Statue Law Using LangChain and Gemini API
 
 ### Library yang dipakai
 - `google-generativeai`: package untuk menggunakan Gemini API [docs](https://pypi.org/project/google-generativeai/)
